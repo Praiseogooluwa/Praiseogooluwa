@@ -18,13 +18,24 @@
 
 <p align="center">
   <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,js,typescript,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,html,css" />
   <br>
-  <!-- Frameworks & Tools -->
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,react,nextjs,express,mysql,postgresql,mongodb" />
+  <!-- Backend & APIs -->
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
   <br>
-  <!-- AI/DS -->
-  <img src="https://skillicons.dev/icons?i=tensorflow,sklearn,pytorch" />
+  <!-- Frontend -->
+  <img src="https://skillicons.dev/icons?i=react,nextjs" />
+  <br>
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <br>
+  <!-- AI / Data Science -->
+  <img src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
   <br>
   <!-- Tools -->
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
