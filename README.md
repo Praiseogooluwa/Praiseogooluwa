@@ -1,12 +1,12 @@
 <!-- Profile README for Isaiah Praise Ogooluwa Bakare -->
 
 <h1 align="center">Hi 👋, I'm Isaiah Praise Ogooluwa Bakare</h1>
-<h3 align="center">🚀 Data Scientist | Backend Developer | AI Enthusiast</h3>
+<h3 align="center">🚀 Data Scientist | Fullstack Developer | AI Enthusiast</h3>
 
 ---
 
 ### 👨‍💻 About Me  
-- 🎓 Recent graduate passionate about **AI, Machine Learning, and Backend Development**  
+- 🎓 Recent graduate passionate about **AI, Machine Learning, and Web Development**  
 - 💻 Certified Programmer & White-hat Developer  
 - 📚 Currently building **AI-powered projects** and advanced backend systems  
 - 🌍 Open to collaborations on **Data Science, AI, and Open Source Projects**  
