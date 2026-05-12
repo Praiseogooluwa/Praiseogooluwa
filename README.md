@@ -134,13 +134,13 @@ Built a classification model to predict patient no-shows for medical appointment
 ## GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Praiseogooluwa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=8B949E&icon_color=06B6D4" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Praiseogooluwa&show_icons=true&theme=tokyonight&hide_border=true&title_color=7C3AED&text_color=8B949E&icon_color=06B6D4&count_private=true" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praiseogooluwa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&text_color=8B949E" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praiseogooluwa&layout=compact&theme=tokyonight&hide_border=true&title_color=7C3AED&text_color=8B949E&langs_count=8" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praiseogooluwa&bg_color=0D1117&color=7C3AED&line=06B6D4&point=ffffff&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Praiseogooluwa&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
 ---
