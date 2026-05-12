@@ -137,7 +137,7 @@ Built a classification model to predict patient no-shows for medical appointment
 
   <img src="https://streak-stats.demolab.com?user=Praiseogooluwa&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Praiseogooluwa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Praiseogooluwa&theme=tokyonight" height="165"/>
 
 </div>
 
