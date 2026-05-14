@@ -5,21 +5,31 @@
 <h1>Isaiah Ogooluwa Bakare</h1>
 <h3>AI Engineer &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; Data Scientist</h3>
 
-<a href="https://praiseogooluwa.com">
-  <img src="https://img.shields.io/badge/Portfolio-praiseogooluwa.com-7C3AED?style=for-the-badge"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/praise-ogooluwa">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://twitter.com/Praisegooluwa">
-  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-</a>
-&nbsp;
-<a href="mailto:praiseogooluwa118@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<p>
+  <img src="https://img.shields.io/badge/Focus-LLM%20Pipelines%20%26%20RAG-7C3AED?style=flat-square&labelColor=1a1a2e"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Location-Lagos%2C%20Nigeria%20%F0%9F%87%B3%F0%9F%87%AC-06B6D4?style=flat-square&labelColor=1a1a2e"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Open%20To-Remote%20Roles-10B981?style=flat-square&labelColor=1a1a2e"/>
+</p>
+
+<p>
+  <a href="https://praiseogooluwa.com">
+    <img src="https://img.shields.io/badge/Portfolio-praiseogooluwa.com-7C3AED?style=for-the-badge"/>
+  </a>
+  &nbsp;
+  <a href="https://linkedin.com/in/praise-ogooluwa">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/Praisegooluwa">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:praiseogooluwa118@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 </div>
 
