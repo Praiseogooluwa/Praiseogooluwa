@@ -5,27 +5,21 @@
 <h1>Isaiah Ogooluwa Bakare</h1>
 <h3>AI Engineer &nbsp;·&nbsp; Full-Stack Developer &nbsp;·&nbsp; Data Scientist</h3>
 
-<p>
-  <img src="https://img.shields.io/badge/Focus-LLM%20Pipelines%20%26%20RAG-7C3AED?style=flat-square&labelColor=1a1a2e"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Location-Lagos%2C%20Nigeria%20%F0%9F%87%B3%F0%9F%87%AC-06B6D4?style=flat-square&labelColor=1a1a2e"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To-Remote%20Roles-10B981?style=flat-square&labelColor=1a1a2e"/>
-</p>
-
-<p>
-  <a href="https://linkedin.com/in/praise-ogooluwa">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://github.com/Praiseogooluwa">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;
-  <a href="https://t.me/oshin2104">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-</p>
+<a href="https://praiseogooluwa.com">
+  <img src="https://img.shields.io/badge/Portfolio-praiseogooluwa.com-7C3AED?style=for-the-badge"/>
+</a>
+&nbsp;
+<a href="https://linkedin.com/in/praise-ogooluwa">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://twitter.com/Praisegooluwa">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+</a>
+&nbsp;
+<a href="mailto:praiseogooluwa118@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
@@ -36,9 +30,11 @@
 ```python
 profile = {
     "name":     "Isaiah Ogooluwa Bakare",
+    "alias":    "Praise Ogooluwa",
     "role":     "AI Engineer · Full-Stack Developer · Data Scientist",
     "school":   "Lagos State University — BSc Mathematics",
-    "building": ["Assignify", "AI Resume Matcher", "GMC Intelligent Chatbot"],
+    "website":  "https://praiseogooluwa.com",
+    "building": ["Assignify (assignify.com.ng)", "AI Resume Matcher", "GMC Intelligent Chatbot"],
     "stack":    ["Python", "FastAPI", "React", "LLMs", "RAG Pipelines"],
     "focus":    "Production-grade AI applications & LLM integrations",
     "goal":     "International career in Data Science & Machine Learning",
